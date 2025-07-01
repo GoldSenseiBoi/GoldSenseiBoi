@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Ibrahima Sory Diallo
 
-<!--
-**GoldSenseiBoi/GoldSenseiBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Dév  
+📍 Basé à Paris | Étudiant en informatique à la Sorbonne Université  
+🚀 Passionné par le code, les produits tech utiles et les challenges à fort impact
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Ce que je fais
+
+Je conçois, développe et améliore des applications web et mobiles, avec un seul objectif : **construire des outils intelligents, modernes et utiles**.
+
+- Développement full stack (front + back)
+- Création de dashboards interactifs et responsives
+- Mise en place d'architectures API/MVC scalables
+- Automatisation, optimisation et performance
+
+---
+
+## 🛠️ Stack technique
+
+```js
+const stack = {
+  front: ['Vue.js', 'React', 'Tailwind CSS'],
+  back: ['Node.js', 'PHP', 'Symfony', 'Express'],
+  db: ['MongoDB', 'MySQL'],
+  mobile: ['React Native', 'ExpoGo'],
+  outils: ['Docker', 'GitLab', 'Nginx', 'VSCode', 'Postman']
+}
