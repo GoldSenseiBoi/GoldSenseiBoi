@@ -27,7 +27,10 @@
 
 ### 📊 Stats GitHub
 
-![GoldSenseiBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldSenseiBoi&show_icons=true&theme=gruvbox)
+![GoldSenseiBoi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoldSenseiBoi&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=GoldSenseiBoi&theme=gruvbox&border_radius=4.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldSenseiBoi&layout=compact&theme=gruvbox)
+
 
 
 <!-- Tu peux aussi activer ça :
