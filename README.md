@@ -51,7 +51,6 @@
 
 ### 📫 Me contacter
 
-- LinkedIn : [moi](https://www.linkedin.com/in/ibrahima-sory-diallo-7a47a0216/)
 - E-mail pro : presetstudio23@gmail.com
 
 ---
