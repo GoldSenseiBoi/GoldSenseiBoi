@@ -27,10 +27,9 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldSenseiBoi&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldSenseiBoi&layout=compact&theme=tokyonight)
 
-<!-- Alternative visuelle stylée -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoldSenseiBoi&theme=gruvbox">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoldSenseiBoi&theme=tokyonight">
 
 
 <!-- Tu peux aussi activer ça :
