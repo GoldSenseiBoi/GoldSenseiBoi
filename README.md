@@ -1,29 +1,45 @@
-# 👋 Salut, moi c’est Ibrahima Sory Diallo
+# 🏄‍♂️ Ibrahima Sory Diallo
 
-💻 Dév  
-📍 Basé à Paris | Étudiant en informatique à la Sorbonne Université  
-🚀 Passionné par le code, les produits tech utiles et les challenges à fort impact
-
----
-
-## 🧠 Ce que je fais
-
-Je conçois, développe et améliore des applications web et mobiles, avec un seul objectif : **construire des outils intelligents, modernes et utiles**.
-
-- Développement full stack (front + back)
-- Création de dashboards interactifs et responsives
-- Mise en place d'architectures API/MVC scalables
-- Automatisation, optimisation et performance
+**`Développeur Full Stack`**  
+📍 Basé à Paris | 🎓 Étudiant en informatique | 🚀 Passionné par la tech, l’IA et l’entrepreneuriat
 
 ---
 
-## 🛠️ Stack technique
+### 🧰 Langages & Outils
 
-```js
-const stack = {
-  front: ['Vue.js', 'React', 'Tailwind CSS'],
-  back: ['Node.js', 'PHP', 'Symfony', 'Express'],
-  db: ['MongoDB', 'MySQL'],
-  mobile: ['React Native', 'ExpoGo'],
-  outils: ['Docker', 'GitLab', 'Nginx', 'VSCode', 'Postman']
-}
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+
+
+### 📊 Stats GitHub
+
+![Ibrahima's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimasorydiallo&show_icons=true&theme=gruvbox)
+
+<!-- Tu peux aussi activer ça :
+![GitHub Streak](https://streak-stats.demolab.com?user=ibrahimasorydiallo&theme=gruvbox&border_radius=4.5)
+-->
+
+---
+
+### 📫 Me contacter
+
+- LinkedIn : [moi](https://www.linkedin.com/in/ibrahima-sory-diallo-7a47a0216/)
+- E-mail pro : ibrahimasorydiallo360@gmail.com
+
+---
+
+> *"Créer du code, c’est bien. Créer de l’impact, c’est mieux."*
