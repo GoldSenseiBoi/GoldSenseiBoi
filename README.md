@@ -27,7 +27,8 @@
 
 ### 📊 Stats GitHub
 
-![Ibrahima's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimasorydiallo&show_icons=true&theme=gruvbox)
+![GoldSenseiBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldSenseiBoi&show_icons=true&theme=gruvbox)
+
 
 <!-- Tu peux aussi activer ça :
 ![GitHub Streak](https://streak-stats.demolab.com?user=ibrahimasorydiallo&theme=gruvbox&border_radius=4.5)
