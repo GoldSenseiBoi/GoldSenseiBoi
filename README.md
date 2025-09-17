@@ -55,4 +55,4 @@
 
 ---
 
-> *"Créer du code, c’est bien. Créer de l’impact, c’est mieux."*
+
