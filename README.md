@@ -1,7 +1,7 @@
 # 🏄‍♂️ Ibrahima Sory Diallo
 
 **`Développeur Full Stack`**  
-📍 Basé à Paris | 🎓 Étudiant en informatique | 🚀 Passionné par la tech, l’IA.
+📍 Basé à Paris  | 🚀 Passionné par la tech, l’IA.
 
 ---
 
